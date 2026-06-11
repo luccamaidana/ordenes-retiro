@@ -12,3 +12,5 @@ ENV/
 
 # Configuraciones propias de VSCode (opcional)
 .vscode/
+
+config/settings.py
